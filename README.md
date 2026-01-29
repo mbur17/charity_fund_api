@@ -1,4 +1,4 @@
-# Charity Fund API — Благотворительная платформа на FastAPI
+# Charity Fund API — Благотворительная платформа
 
 ## Описание
 API-сервис для управления благотворительными проектами и пожертвованиями.
@@ -236,11 +236,3 @@ Authorization: Bearer <admin_token>
   "spreadsheet_url": "https://docs.google.com/spreadsheets/d/1AbCDeFGHIjkLMNOPQRstuVWXYZ"
 }
 ```
-
-## Автор
-
-[Буряковский Максим](https://github.com/yourusername)
-
-## Лицензия
-
-Этот проект распространяется под лицензией MIT.
